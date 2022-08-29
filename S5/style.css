@@ -31,14 +31,13 @@ header{
 }
 
 .nav a{
-    font-weight: 800;
+    font-weight: 600;
     padding-right: 11px;
     
 }
 
 nav a:hover{
     color: rgb(83, 221, 255);
-    padding-right: 10px;
 }
 
 
